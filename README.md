@@ -14,14 +14,19 @@ Open the project in your favorite IDE.
 
 Build and run the application. The API will be accessible at http://localhost:8080.
 
-API Endpoints
+**API Endpoints**
+
 GET /api/message: Returns a default message.
 POST /api/message: Accepts a message in the request body and echoes it back.
-Usage
+
+**Usage**
+
 Use a tool like Postman to test the API endpoints.
 Send a GET request to /api/message to get the default message.
 Send a POST request to /api/message with a JSON payload to echo a message back.
-Technologies Used
+
+**Technologies Used**
+
 Java
 Spring Boot
 Maven
